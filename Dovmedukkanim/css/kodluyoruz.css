@@ -1,0 +1,56 @@
+
+h1{
+    color: rgb(255, 255, 255);
+}
+
+h2{
+    color:rgb(153, 68, 222)
+}
+h3{
+    color:rgb(210, 75, 30)
+}
+body{
+    text-align:center;
+    background-color: darksalmon;
+}
+.text-color {
+    color:red;
+}
+.text-black{
+    color:black
+}
+.text-white{
+    color:aliceblue
+}
+.fs-14 {
+    font-size: 14px;
+}
+
+.fs-20 {
+    font-size: 20px;
+}
+
+.fs-30 {
+    font-size: 30px;
+}
+ 
+p>span>a{
+    display:inline-block;
+ }
+li a {  
+    display: inline-block; 
+    color: rgb(21, 2, 2);
+    padding: 5px 5px;
+   text-decoration: none;
+}
+
+/* Change the link color on hover */
+
+.box a:hover {
+    background-color: #ca0909;
+    color: rgb(255, 255, 255);
+}
+
+.c {
+    list-style-type: upper-roman;
+}
